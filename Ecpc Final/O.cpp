@@ -22,7 +22,7 @@ struct BT {
 
   BT() { init(); }
 
-  void update(int val, int op) { /// 1 -> add , -1 -> delete
+  void update(int val, int op) { /// 1 -> add , -1 -> deletee
     int u = 0;
     for (int i = M - 1; i >= 0; --i) {
       int v = val >> i & 1;
