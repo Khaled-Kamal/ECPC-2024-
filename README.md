@@ -1,1 +1,1 @@
-The solutions to this year’s problems are from the Ecpc competition, which is held every year at the university level and at the Egyptian level. So I collected the solutions from the Codeforce website to facilitate those who want to obtain them.
+The solutions to this year’s problems are from the Ecpc competition, which is held every year at the university level and at the Egyptian level. So I collected the solutions from the Codeforce website to facilitate those who want to obtain them..
